@@ -1,0 +1,49 @@
+body{
+    text-align:center;
+    background-size:cover;
+    color:white;
+}
+hr{
+    background-color:black;
+}
+#top_heading,#top_div,#footer{
+    color:red;
+
+}
+#footer{
+    bottom:0;
+    position:fixed;
+    
+}
+#top_div{
+    background-color:grey;
+    float:none;
+    padding-left:10px;
+    padding-right:10px;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    padding-top:5px;
+}
+#top_1{
+    background-color:white;
+}
+#id_1{
+    background-color:white;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px white;
+    margin-top:300px;
+    
+}
+#Object_Accuracy{
+    background-color:white;
+    float:none;
+    padding-left:100px;
+    padding-right:100px;
+    border-radius:20px;
+    box-shadow:5px 5px 5px white;
+    padding-top:5px;
+    color:black;
+}
